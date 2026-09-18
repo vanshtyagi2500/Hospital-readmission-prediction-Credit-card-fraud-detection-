@@ -2,11 +2,6 @@
 Case Study 2: Credit Card Fraud Detection
 XGBoost + SMOTE + threshold tuning + feature importance.
 
-Expected CSV:
-- target column named 'Class' (0 = legitimate, 1 = fraud), OR
-- target column named 'is_fraud'.
-
-The script uses a built-in synthetic demonstration dataset if no CSV is supplied.
 """
 
 import argparse
