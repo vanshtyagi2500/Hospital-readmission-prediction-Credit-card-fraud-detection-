@@ -1,13 +1,6 @@
 """
 Case Study 1: Hospital Readmission Prediction
-Logistic Regression with L2 regularization.
-
-Expected input CSV columns (example):
-readmitted_30d, age, heart_rate, systolic_bp, glucose, prior_visits,
-diagnosis_code, gender
-
-The script also works with a small built-in demonstration dataset if no CSV
-is supplied. For a real submission, replace the demo data with your dataset.
+Logistic Regression with L2 regularisation 
 """
 
 import argparse
